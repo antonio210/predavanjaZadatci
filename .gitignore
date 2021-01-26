@@ -4,7 +4,9 @@
 *.project
 
 */bin/
-*/edunova/
+*/edunova/*.java
+*/edunova/primjer1/*
+*/edunova/primjer2/*
 
 # Log file
 *.log
